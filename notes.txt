@@ -1,0 +1,11 @@
+TODO 
+
+
+
+migrer un champ ACF :
+UPDATE postmeta SET meta_key = '_name', meta_value = 'new_field_id' WHERE meta_key = '_old_name' AND meta_value = 'old_field_id';
+UPDATE postmeta SET meta_key = 'name' WHERE meta_key = 'old_name';
+
+
+UPDATE dev_postmeta SET meta_key = '_mis_en_avant', meta_value = 'field_5c175c3d59b32' WHERE meta_key = '_featured' AND meta_value = 'field_5958a00757e00';
+UPDATE dev_postmeta SET meta_key = 'mis_en_avant' WHERE meta_key = '_featured';

@@ -1,0 +1,450 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-27 03:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: zelist.php:118
+#, php-format
+msgid "Updated %1$s ago"
+msgstr ""
+
+#: zelist.php:119
+#, php-format
+msgid "Published %1$s ago"
+msgstr ""
+
+#: zelist.php:120
+#, php-format
+msgid "and <a href=\"%1$s\">zeList directory plugin</a>"
+msgstr ""
+
+#: zelist.php:121
+#, php-format
+msgid "Organisation: %1$s"
+msgstr ""
+
+#: admin/zelist-admin-hooks.php:12
+msgid "URL:"
+msgstr ""
+
+#: admin/zelist-admin-uncategorized.php:25
+msgid "Uncategorized"
+msgstr ""
+
+#: admin/zelist-admin-lists.php:11
+msgid "Category"
+msgstr ""
+
+#: admin/zelist-admin-lists.php:14
+#: settings/wp-improved-settings-zelist.class.php:178
+#: includes/zelist-front-submit.php:87 includes/zelist-cpt.php:57
+msgid "Listing Tags"
+msgstr ""
+
+#: admin/zelist-admin-lists.php:39
+msgid "Updated"
+msgstr ""
+
+#: admin/zelist-admin-lists.php:143
+#, php-format
+msgid "Status: %s"
+msgstr ""
+
+#: admin/zelist-admin-lists.php:146
+#, php-format
+msgid "Published on: %1$s"
+msgstr ""
+
+#: admin/zelist-admin-lists.php:151
+#, php-format
+msgid "Updated on: %1$s"
+msgstr ""
+
+#: admin/zelist-admin-lists.php:164
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\" rel=\"noopener\">%s</a>"
+msgstr ""
+
+#: admin/zelist-admin-functions.php:17 admin/zelist-admin-functions.php:47
+msgid "Deny"
+msgstr ""
+
+#: admin/zelist-admin-functions.php:20
+msgid "Mark as dead"
+msgstr ""
+
+#: admin/zelist-admin-functions.php:26 admin/zelist-admin-functions.php:38
+msgid "Denied"
+msgstr ""
+
+#: admin/zelist-admin-functions.php:27 admin/zelist-admin-functions.php:33
+#: admin/zelist-admin-functions.php:59
+msgid "Dead"
+msgstr ""
+
+#: admin/zelist-upgrade.php:10
+#, php-format
+msgid "Links found in old format: %d"
+msgstr ""
+
+#: admin/zelist-upgrade.php:15
+#, php-format
+msgid "Links updated: %d"
+msgstr ""
+
+#: admin/zelist-upgrade.php:20
+#, php-format
+msgid "Tags updated: %d"
+msgstr ""
+
+#: admin/zelist-upgrade.php:25
+#, php-format
+msgid "Categories updated: %d"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:39
+msgid "zeList settings"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:43
+#: settings/wp-improved-settings-zelist.class.php:77
+msgid "Settings"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:66
+#, php-format
+msgid "zeList plugin is not fully configured yet : <ul>%s</ul>"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:81
+msgid "ACF"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:85
+msgid "Integration"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:89
+msgid "URL"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:93
+msgid "Maintenance"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:101
+msgid "Pages"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:105
+msgid "Directory main page"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:120
+msgid "Modification date"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:121
+msgid "Listing title"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:122
+msgid "ID"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:127
+msgid "General settings"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:131
+msgid "Default sort"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:139
+msgid "Default sort order"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:142
+msgid "Descending"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:143
+msgid "Ascending"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:162
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:166
+msgid "ACF group used for listings"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:169
+msgid ""
+"Choose the relevant ACF group (amongst those used for \"listing\" posts type)"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:177
+#: settings/wp-improved-settings-zelist.class.php:285
+#: settings/wp-improved-settings-zelist.class.php:287
+#: includes/zelist-front-submit.php:71 includes/zelist-cpt.php:17
+#: includes/zelist-plugin-install.php:11 includes/zelist-front.php:6
+msgid "Listing category"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:203
+msgid "Admin columns"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:207
+msgid "Show on admin lists"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:218
+#: settings/wp-improved-settings-zelist.class.php:222
+msgid "Show on front end"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:233
+msgid "Front end submit"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:237
+msgid "Show on front end form"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:248
+msgid "Website fields"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:256
+#: settings/wp-improved-settings-zelist.class.php:269
+#: settings/wp-improved-settings-zelist.class.php:305
+msgid "None"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:281
+msgid "Labels"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:292
+#: settings/wp-improved-settings-zelist.class.php:294
+#: includes/zelist-plugin-install.php:12 includes/zelist-front.php:13
+msgid "Listing Tag"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:301
+msgid "Links"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:320
+msgid "Featured field"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:327
+#: settings/wp-improved-settings-zelist.class.php:334
+msgid "Website URL field name"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:341
+msgid "Facebook field name"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:343
+msgid "Facebook URL will be prepended if needed"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:349
+msgid "Twitter field name"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:351
+msgid "Twitter URL will be prepended if needed"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:358
+msgid "Where should the link point on archive pages"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:361
+msgid "To the listing single page"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:362
+msgid "To the external URL"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:371
+#: settings/wp-improved-settings-zelist.class.php:422
+msgid "Slugs"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:379
+msgid "Prefix for categories"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:382
+#: includes/zelist-plugin-install.php:8
+msgid "directory/"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:389
+msgid "Prefix for listing tags"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:392
+#: includes/zelist-plugin-install.php:9
+msgid "directory/tag/"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:399
+msgid "Prefix for single listing"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:402
+msgid "directory/listing/"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:412
+#, php-format
+msgid ""
+"Please activate <a href=\"%s\">Pretty Permalinks</a> to manage Links URLs "
+"options"
+msgstr ""
+
+#: settings/wp-improved-settings-zelist.class.php:426
+msgid "Import from older version"
+msgstr ""
+
+#: templates/single-listing.php:33 templates/single-listing.php:35
+msgid "Previous listing"
+msgstr ""
+
+#: templates/single-listing.php:40 templates/single-listing.php:41
+msgid "Next listing"
+msgstr ""
+
+#: includes/zelist-front-submit.php:56
+msgid "Your listing has been submitted and is pending validation by an editor"
+msgstr ""
+
+#: includes/zelist-front-submit.php:117
+msgid "Submit listing"
+msgstr ""
+
+#: includes/zelist-cpt.php:16
+msgid "Listing Categories"
+msgstr ""
+
+#: includes/zelist-cpt.php:18
+msgid "All categories"
+msgstr ""
+
+#: includes/zelist-cpt.php:87
+msgid "Listings"
+msgstr ""
+
+#: includes/zelist-cpt.php:88
+msgid "Listing"
+msgstr ""
+
+#: includes/zelist-cpt.php:89
+msgid "Add new listing"
+msgstr ""
+
+#: includes/zelist-cpt.php:90
+msgid "Edit listing"
+msgstr ""
+
+#: includes/zelist-cpt.php:91
+msgid "New listing"
+msgstr ""
+
+#: includes/zelist-cpt.php:92
+msgid "View listing"
+msgstr ""
+
+#: includes/zelist-cpt.php:93
+msgid "View listings"
+msgstr ""
+
+#: includes/zelist-cpt.php:94
+msgid "Search listings"
+msgstr ""
+
+#: includes/zelist-cpt.php:95
+msgid "No listing found"
+msgstr ""
+
+#: includes/zelist-cpt.php:96
+msgid "No listing found in trash"
+msgstr ""
+
+#: includes/zelist-cpt.php:97
+msgid "All listings"
+msgstr ""
+
+#: includes/zelist-cpt.php:98
+msgid "Listing archives"
+msgstr ""
+
+#: includes/zelist-plugin-install.php:4
+msgid "Please install and activate Advanced Custom Fields first"
+msgstr ""
+
+#: includes/zelist-plugin-install.php:10
+msgid "directory/link/"
+msgstr ""
+
+#: includes/zelist-shortcodes.php:86
+msgid "Recently published"
+msgstr ""
+
+#: includes/zelist-shortcodes.php:150
+msgid "Recently updated"
+msgstr ""
+
+#: includes/zelist-front.php:86
+#, php-format
+msgid "<span class=\"label\">%s: </span>%s"
+msgstr ""
+
+#: includes/zelist-front.php:143 includes/zelist-front.php:166
+#: includes/zelist-front.php:197
+#, php-format
+msgid "%s: <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+
+#. %s: Name of current post
+#: templates/template-parts/listing/content-listing.php:33
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Name of the plugin
+msgid "zeList directory for WordPress"
+msgstr ""
+
+#. Description of the plugin
+msgid "List things"
+msgstr ""
+
+#. Author of the plugin
+msgid "Fluenx"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.fluenx.com/"
+msgstr ""
